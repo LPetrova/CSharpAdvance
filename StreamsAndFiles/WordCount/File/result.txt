@@ -1,0 +1,3 @@
+quick -2 times
+is -5 times
+fault -1 times

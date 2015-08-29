@@ -1,0 +1,10 @@
+.config
+--SlicingFile.exe.config - 0.183kb
+--SlicingFile.vshost.exe.config - 0.183kb
+.exe
+--SlicingFile.exe - 7.000kb
+--SlicingFile.vshost.exe - 22.625kb
+.manifest
+--SlicingFile.vshost.exe.manifest - 0.479kb
+.pdb
+--SlicingFile.pdb - 13.500kb
